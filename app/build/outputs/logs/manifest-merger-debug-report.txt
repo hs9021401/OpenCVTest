@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:12:19-67
+uses-feature#android.hardware.camera.front
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:13:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:14:19-73
+application
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:16:5-33:19
+MERGED from [com.android.support:appcompat-v7:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:19:9-41
+	android:supportsRtl
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:20:9-35
+	android:allowBackup
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:18:9-43
+	android:theme
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.foxlinkimage.alex.opencvtest.MainActivity
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:22:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.foxlinkimage.alex.opencvtest.FdActivity
+ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:29:9-32:59
+	android:label
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:31:13-54
+	android:theme
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml:30:13-39
+uses-sdk
+INJECTED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [OpenCVTest:openCVLibrary300:unspecified] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\OpenCVTest\openCVLibrary300\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Android\WorkSpace\OpenCVTest\app\src\main\AndroidManifest.xml

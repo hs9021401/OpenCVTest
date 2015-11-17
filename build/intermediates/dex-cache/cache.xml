@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\pre-dexed\debug\classes-57685f6ca9c7a5608940d5ed5be727ef0bc82972.jar" />
+    </item>
+    <item
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-55686660cfda5dd96b01ac631f2fbb75df70a290.jar" />
+    </item>
+    <item
+        jar="E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\pre-dexed\debug\classes-c60c54d21f82b19977bd998f87572dd2fe2ac86c.jar" />
+    </item>
+    <item
+        jar="E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\OpenCVTest\openCVLibrary300\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a02a827e81fa1004df7eb5386c4d3920c6be8e0c">
+        <dex dex="E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\pre-dexed\debug\classes-c7e47394c7a04ac715a7795e8108f2196deab5d8.jar" />
+    </item>
+    <item
+        jar="E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-a89eb48c71bc74aeed2553ce867d5ba6c921aca9.jar" />
+    </item>
+    <item
+        jar="E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\pre-dexed\debug\classes-99648247f4bb9568c03d457b08edb9d6f63a2640.jar" />
+    </item>
+    <item
+        jar="E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="E:\Project\Android\WorkSpace\OpenCVTest\app\build\intermediates\pre-dexed\debug\classes-2486ee52b750a603d9b681027fe5dacb86c0cdbb.jar" />
+    </item>
+
+</items>
